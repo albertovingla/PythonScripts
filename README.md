@@ -8,7 +8,7 @@ Este repositório contém uma coleção de **scripts utilitários em Python**, d
 
 ### 01 📤 `send_whatsapp_message.py`
 Envia uma mensagem de WhatsApp para um número de telefone utilizando a [Z-API](https://z-api.io/), uma API de integração com WhatsApp.
-🚀 Como executar
+🚀 Como executar:
 python send_whatsapp_message.py 554899999999
 
 ### 02 📤 `whatsapp_trigger_python2.agi`
