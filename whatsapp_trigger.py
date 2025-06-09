@@ -6,16 +6,16 @@ import requests
 import json
 
 BASE_URL = "https://api.z-api.io"
-INSTANCE_ID = "3E2465B591D1B0D64E62AECF7C1F6C1C"
-INSTANCE_TOKEN = "F2B56D660009F098AC185851"
-CLIENT_TOKEN = "F8b243bac1fec43228f6701982e390910S"
+INSTANCE_ID = "YOUR_INSTANCE_ID"
+INSTANCE_TOKEN = "YOUR_INSTANCE_TOKEN"
+CLIENT_TOKEN = "YOUT_CLIENT_TOKEN"
 
 def send_whatsapp_message(phone):
     api_url = f"{BASE_URL}/instances/{INSTANCE_ID}/token/{INSTANCE_TOKEN}/send-text"
 
     payload = {
         "phone": phone,
-        "message": "Olá! Me chamo Alberto e este é um teste de uma AGI!"
+        "message": "Olá! Me chamo NOME e este é um teste de uma AGI!"
     }
 
     headers = {
