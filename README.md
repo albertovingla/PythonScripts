@@ -18,14 +18,14 @@ Envia uma mensagem de WhatsApp para um número de telefone utilizando a [Z-API](
 🚀 Como executar:
 python whatsapp_trigger_python2.agi 554899999999
 
-📌 Observações
+📌 Observações: 
 Este repositório será atualizado continuamente com novos scripts.
 
 Os tokens e identificadores da Z-API no exemplo são fictícios — substitua com seus próprios dados válidos da plataforma.
 
-📜 Licença
+📜 Licença: 
 Este repositório está licenciado sob a MIT License. Consulte o arquivo LICENSE para mais detalhes.
 
-🙋‍♀️ Autor
+🙋‍♀️ Autor: 
 Desenvolvido por Alberto Vieira Vingla
 📧 Contato: [LinkedIn](https://www.linkedin.com/in/alberto-vingla-14429098/)
